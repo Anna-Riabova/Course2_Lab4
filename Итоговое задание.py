@@ -81,4 +81,3 @@ class Sportsmen(Human):
 
     def __repr__(self) -> str:
         return f'Human(name={self.name!r})'  # Например, для строк важно указать !r
-
